@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="pvr.jellyfin" version="0.1.16" name="Jellyfin PVR Client" provider-name="northernpowerhouse">
+    <requires>
+        <import addon="kodi.binary.global.main" version="1.0.0"/>
+        <import addon="kodi.binary.instance.pvr" version="5.10.0"/>
+    </requires>
+    <extension point="xbmc.pvrclient" library_android="libpvr.jellyfin.so" library_linux="libpvr.jellyfin.so" library_windows="pvr.jellyfin.dll" library_osx="libpvr.jellyfin.dylib"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>Jellyfin PVR Client</summary>
+        <description>Jellyfin PVR Client for Kodi</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+</addons>
