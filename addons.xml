@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="pvr.jellyfin" version="0.1.16" name="Jellyfin PVR Client" provider-name="northernpowerhouse">
+<addon id="pvr.jellyfindev" version="0.1.16" name="Jellyfin PVR Client (dev)" provider-name="northernpowerhouse">
     <requires>
         <import addon="kodi.binary.global.main" version="1.0.0"/>
         <import addon="kodi.binary.instance.pvr" version="5.10.0"/>
