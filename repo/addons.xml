@@ -11,7 +11,7 @@
              library_linux="pvr.jellyfin.so"
              library_osx="pvr.jellyfin.so"
              library_windows="pvr.jellyfin.dll"
-             library_android="libpvr.jellyfin.so"/>
+             library_android="pvr.jellyfin.so"/>
   <extension point="xbmc.addon.metadata">
     <summary lang="en_GB">Kodi PVR addon for Jellyfin Live TV</summary>
     <description lang="en_GB">This addon allows Kodi to use Jellyfin as a Live TV backend, supporting channels, EPG, and recordings.</description>
@@ -35,7 +35,7 @@
                library_linux="pvr.jellyfin.so"
                library_osx="pvr.jellyfin.so"
                library_windows="pvr.jellyfin.dll"
-               library_android="libpvr.jellyfin.so"/>
+               library_android="pvr.jellyfin.so"/>
     <extension point="xbmc.addon.metadata">
       <summary lang="en_GB">Jellyfin PVR Client (dev)</summary>
       <description lang="en_GB">Development build of the Jellyfin PVR Client for Kodi.</description>
