@@ -368,3 +368,44 @@
 2025-11-11 02:02:11.497 T:17785    info <general>: Loading skin file: DialogSelect.xml, load type: KEEP_IN_MEMORY
 2025-11-11 02:02:15.612 T:17840    info <general>: KodiGithubLogs: Building log payload (level=debug, include_old=True, exclude_startup=False)
 2025-11-11 02:02:15.613 T:17840    info <general>: KodiGithubLogs: Checking log path: special://logpath/kodi.log -> /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/temp/kodi.log
+2025-11-11 02:02:15.613 T:17840    info <general>: KodiGithubLogs: Read 45509 bytes from /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/temp/kodi.log
+2025-11-11 02:02:15.613 T:17840    info <general>: KodiGithubLogs: Checking log path: special://logpath/kodi.old -> /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/temp/kodi.old
+2025-11-11 02:02:15.614 T:17840 warning <general>: KodiGithubLogs: Log file does not exist: /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/temp/kodi.old
+2025-11-11 02:02:15.614 T:17840    info <general>: KodiGithubLogs: Total log text length: 45507
+2025-11-11 02:02:15.615 T:17840    info <general>: KodiGithubLogs: Uploading to northernpowerhouse/northernpowerhousekodi/log/kodilog202511110102.txt
+2025-11-11 02:02:16.940 T:17840    info <general>: KodiGithubLogs: Upload successful
+2025-11-11 02:02:16.957 T:17785    info <general>: Loading skin file: DialogConfirm.xml, load type: KEEP_IN_MEMORY
+2025-11-11 02:02:50.063 T:17785   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:50.063 T:17785   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:50.066 T:17785    info <general>: Loading skin file: AddonBrowser.xml, load type: KEEP_IN_MEMORY
+2025-11-11 02:02:50.100 T:17785   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:50.100 T:17785   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:50.108 T:17785   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:50.109 T:17785   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:50.109 T:17785   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:50.109 T:17785   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:51.164 T:17785   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:51.164 T:17785   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:51.968 T:17848   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:51.968 T:17848   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:52.158 T:17847   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:52.158 T:17847   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:52.330 T:17847   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:52.330 T:17847   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:52.344 T:17847   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:52.344 T:17847   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:52.363 T:17785   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:52.363 T:17785   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:52.371 T:17785 warning <general>: CGUIMediaWindow::OnMessage - updating in progress
+2025-11-11 02:02:53.831 T:17848   error <general>: GetDirectory - Error getting addons://repository.northernpowerhouse/
+2025-11-11 02:02:53.846 T:17785   error <general>: CGUIMediaWindow::GetDirectory(addons://repository.northernpowerhouse/) failed
+2025-11-11 02:02:53.848 T:17851   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:53.849 T:17851   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:53.857 T:17785   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:53.857 T:17785   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:55.388 T:17847   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:55.388 T:17847   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:55.402 T:17847   error <general>: Repository add-on repository.northernpowerhouse uses old schema definition for the repository extension point! This is no longer supported, please update your addon to use <dir> definitions.
+2025-11-11 02:02:55.402 T:17847   error <general>: Repository add-on repository.northernpowerhouse does not have any directory matching 21.2.0 and won't be able to update/serve addons! Please fix the addon.xml definition
+2025-11-11 02:02:59.282 T:17854    info <general>: KodiGithubLogs: Building log payload (level=debug, include_old=True, exclude_startup=False)
+2025-11-11 02:02:59.282 T:17854    info <general>: KodiGithubLogs: Checking log path: special://logpath/kodi.log -> /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/temp/kodi.log
