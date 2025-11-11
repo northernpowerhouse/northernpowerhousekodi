@@ -5,7 +5,7 @@
             <import addon="kodi.binary.global.main" version="1.0.0"/>
             <import addon="kodi.binary.instance.pvr" version="5.10.0"/>
         </requires>
-        <extension point="xbmc.pvrclient" library_android="libpvr.jellyfin.so" library_linux="libpvr.jellyfin.so" library_windows="pvr.jellyfin.dll" library_osx="libpvr.jellyfin.dylib"/>
+    <extension point="xbmc.pvrclient" library_android="pvr.jellyfin.so" library_linux="libpvr.jellyfin.so" library_windows="pvr.jellyfin.dll" library_osx="libpvr.jellyfin.dylib"/>
         <extension point="xbmc.addon.metadata">
             <summary>Jellyfin PVR Client</summary>
             <description>Jellyfin PVR Client for Kodi</description>
@@ -21,7 +21,7 @@
             <import addon="kodi.binary.global.main" version="1.0.0"/>
             <import addon="kodi.binary.instance.pvr" version="5.10.0"/>
         </requires>
-        <extension point="xbmc.pvrclient" library_android="libpvr.jellyfin.so" library_linux="libpvr.jellyfin.so" library_windows="pvr.jellyfin.dll" library_osx="libpvr.jellyfin.dylib"/>
+    <extension point="xbmc.pvrclient" library_android="pvr.jellyfin.so" library_linux="libpvr.jellyfin.so" library_windows="pvr.jellyfin.dll" library_osx="libpvr.jellyfin.dylib"/>
         <extension point="xbmc.addon.metadata">
             <summary>Jellyfin PVR Client (dev)</summary>
             <description>Development build of the Jellyfin PVR Client for Kodi</description>
